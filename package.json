@@ -1,5 +1,5 @@
 {
-  "name": "fireauth",
+  "name": "@arxis/fireauth",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -43,5 +43,23 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.1.",
+  "main": "karma.conf.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renearias/fireauth.git"
+  },
+  "keywords": [
+    "auth",
+    "firestore",
+    "firebase",
+    "angular"
+  ],
+  "author": "Rene Arias <renearias@arxis.la>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renearias/fireauth/issues"
+  },
+  "homepage": "https://github.com/renearias/fireauth#readme"
 }
